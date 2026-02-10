@@ -1,4 +1,3 @@
-
 import time
 from window_simulator import get_wind_speed
 from window_simulator import detect_incoming_speed
